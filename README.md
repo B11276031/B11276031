@@ -11,7 +11,7 @@
 <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
 <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
 <td><a href="">巨量資料處理</a></td>
-<td>v葉毅傑</td>
+<td>葉毅傑</td>
 </tr>
 <tr>
 <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
